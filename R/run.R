@@ -22,7 +22,7 @@
 #'
 #' @examples
 #' \dontrun{
-#' run(force=TRUE)
+#' run()
 #' }
 #'
 #' @export
