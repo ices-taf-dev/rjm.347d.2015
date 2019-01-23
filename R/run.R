@@ -21,7 +21,9 @@
 #' @importFrom utils packageName
 #'
 #' @examples
+#' \dontrun{
 #' run(force=TRUE)
+#' }
 #'
 #' @export
 
