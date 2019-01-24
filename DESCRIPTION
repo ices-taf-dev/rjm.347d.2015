@@ -3,7 +3,7 @@ Version: 1.0
 Date: 2019-01-23
 Title: North Sea Spotted Ray 2015
 Authors@R: c(person("Jan Jaap", "Poos", role="aut"),
-             person("ICES TAF", role="cre", email="taf@ices.dk"))
+             person("TAF Development Team", role="cre", email="taf@ices.dk"))
 Imports: utils, icesTAF
 LazyData: yes
 Description: Assessment from 2015 of rjm-347d: Spotted ray (Raja montagui) in
