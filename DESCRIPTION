@@ -2,7 +2,7 @@ Package: rjm.347d.2015
 Version: 1.0
 Date: 2019-01-23
 Title: North Sea Spotted Ray 2015
-Authors@R: c(person("Jan Jaap", "Poos", role="aut"),
+Authors@R: c(person(c("Jan", "Jaap"), "Poos", role="aut"),
              person("TAF Development Team", role="cre", email="taf@ices.dk"))
 Imports: utils, icesTAF
 LazyData: yes
